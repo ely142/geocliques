@@ -28,7 +28,7 @@
 geocliques/
 ├── static/
 │   ├── css/         # Stylesheets
-│   ├── files/       # Images, logos, avatar pics, and other static media assets
+│   ├── files/       # Images, logos, avatar pics (created using Canva and excluded from this public repo due to licensing restrictions), and other static media assets
 │   ├── instance/    # Local development folder storing the SQLite database file (not tracked in version control or production)
 │   └── js/          # JavaScript
 ├── templates/
